@@ -1,12 +1,3 @@
-## 🧠 Prompts
-
-
-ChatGPT：
-
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-
-
 - |  nome  |
 
   Você é um roteirista de podcast, vamos criar um podcast de tecnologia, focado em desenvolvimento fullstack. Eu gostaria da sua ajuda para criar 5 sugestões de nomes criativos para um podcast de desenvolvimento fullstack nerd, e que tenha algum trocadilho nerd no nome.
