@@ -52,7 +52,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 🛠️ Instruções de execução
 
-Utilizei os prompts dentro da pasta "assets", para replicar o resultado siga o passo a passo abaixo.
+Utilizei os prompts dentro da pasta "assets" e na pasta , para replicar o resultado siga o passo a passo abaixo.
 
 - 🤖 1. Use os prompts de roteiro no `chagpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
