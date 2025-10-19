@@ -67,7 +67,7 @@ Utilizei os prompts dentro da pasta "assets", para replicar o resultado siga o p
       width=80 
       src="https://avatars.githubusercontent.com/u/105826184?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspIsmael Medeiros<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/ism-dev-codes">
