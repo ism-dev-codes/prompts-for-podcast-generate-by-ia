@@ -45,14 +45,14 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 📚 Materiais
 
-- Prompts Nome do Podcast está localizado na pasta output
-- Prompt para criação da Imagem de Capa esta localizado na pasta output    
+- Prompts Nome do Podcast está localizado na pasta src/prompts
+- Prompt para criação da Imagem de Capa esta localizado na pasta src/prompts    
 - Capcut link: [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
 
 ## 🛠️ Instruções de execução
 
-Utilizei os prompts dentro da pasta "assets" e na pasta "output"  , para replicar o resultado siga o passo a passo abaixo.
+Utilizei os prompts dentro da pasta "src/prompts", para replicar o resultado siga o passo a passo abaixo.
 
 - 🤖 1. Use os prompts de roteiro no `chagpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
