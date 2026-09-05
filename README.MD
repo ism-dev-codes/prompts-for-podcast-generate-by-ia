@@ -88,7 +88,6 @@ Utilizei os prompts dentro da pasta "src/prompts", para replicar o resultado sig
         href="https://www.instagram.com/ismaelsmedeiros?igsh=YXA1OW1mNXhkNmVy">
         Instagram
     </a>
-    &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
